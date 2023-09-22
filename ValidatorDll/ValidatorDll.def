@@ -1,0 +1,4 @@
+LIBRARY ValidatorDll
+
+EXPORTS
+	BeginHook	@1
